@@ -37,65 +37,65 @@
 
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/border_layout_turtle_green"
-            android:orientation="vertical">
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            android:background="@drawable/border_layout_turtle_green"-->
+<!--            android:orientation="vertical">-->
 
-            <com.rengwuxian.materialedittext.MaterialEditText
-                android:id="@+id/editTextPassword"
-                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@color/white"
-                android:text="@string/password"
-                android:paddingLeft="@dimen/activity_horizontal_margin"
-                android:digits="@string/valids_text_field_email"
-                android:inputType="textEmailAddress" />
+<!--            <com.rengwuxian.materialedittext.MaterialEditText-->
+<!--                android:id="@+id/editTextPassword"-->
+<!--                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:text="@string/password"-->
+<!--                android:paddingLeft="@dimen/activity_horizontal_margin"-->
+<!--                android:digits="@string/valids_text_field_email"-->
+<!--                android:inputType="textEmailAddress" />-->
 
-        </LinearLayout>
+<!--        </LinearLayout>-->
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/border_layout_turtle_green"
-            android:orientation="vertical">
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            android:background="@drawable/border_layout_turtle_green"-->
+<!--            android:orientation="vertical">-->
 
-            <com.rengwuxian.materialedittext.MaterialEditText
-                android:id="@+id/editTextPassword"
-                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@color/white"
-                android:text="@string/password"
-                android:paddingLeft="@dimen/activity_horizontal_margin"
-                android:digits="@string/valids_text_field_email"
-                android:inputType="textEmailAddress" />
+<!--            <com.rengwuxian.materialedittext.MaterialEditText-->
+<!--                android:id="@+id/editTextPassword"-->
+<!--                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:text="@string/password"-->
+<!--                android:paddingLeft="@dimen/activity_horizontal_margin"-->
+<!--                android:digits="@string/valids_text_field_email"-->
+<!--                android:inputType="textEmailAddress" />-->
 
-        </LinearLayout>
+<!--        </LinearLayout>-->
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:background="@drawable/border_layout_turtle_green"
-            android:orientation="vertical">
+<!--        <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="8dp"-->
+<!--            android:background="@drawable/border_layout_turtle_green"-->
+<!--            android:orientation="vertical">-->
 
-            <com.rengwuxian.materialedittext.MaterialEditText
-                android:id="@+id/editTextPassword"
-                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textColor="@color/white"
-                android:text="@string/password"
-                android:paddingLeft="@dimen/activity_horizontal_margin"
-                android:digits="@string/valids_text_field_email"
-                android:inputType="textEmailAddress" />
+<!--            <com.rengwuxian.materialedittext.MaterialEditText-->
+<!--                android:id="@+id/editTextPassword"-->
+<!--                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:text="@string/password"-->
+<!--                android:paddingLeft="@dimen/activity_horizontal_margin"-->
+<!--                android:digits="@string/valids_text_field_email"-->
+<!--                android:inputType="textEmailAddress" />-->
 
-        </LinearLayout>
+<!--        </LinearLayout>-->
 
 
         <ProgressBar

@@ -51,7 +51,7 @@ class HomeScreenFragment : Fragment(R.layout.fragment_home_screen) {
 //            Post("https://omargamboa.com/wp-content/uploads/2020/10/omargamboa-pikachu.jpg","picachu", Timestamp.now(), "https://cdn.alfabetajuega.com/alfabetajuega/abj_public_files/multimedia/imagenes/alfabetajuega-pm-1-090518.jpg"),
 //            Post("https://assets.stickpng.com/images/580b57fcd9996e24bc43c32a.png","escuartule", Timestamp.now(), "https://i.pinimg.com/736x/6b/cf/0d/6bcf0d88ac78f51676ed50f6ae0b1b70.jpg"),
 //            Post("https://i.pinimg.com/originals/cd/69/3e/cd693e769495d644302de8592fcae7d0.gif","charmander", Timestamp.now(), "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/09/Pokemon-Fan-Artist-Gives-Charmander-Evolution-Line-a-Halloween-Inspired-Makeover.jpg"),
-//            Post("https://i.pinimg.com/originals/3b/78/47/3b7847675982776e5219e12a680ecd84.png","bolbasory", Timestamp.now(), "https://i.pinimg.com/736x/e5/ed/cb/e5edcb3d1e96c3e0a2aa5646bbe9c87e.jpg")
+//            Post("https://i.pinimg.com/originals/3b/78/47/3b7847675982776e5219e12a680ecd84.png","git ", Timestamp.now(), "https://i.pinimg.com/736x/e5/ed/cb/e5edcb3d1e96c3e0a2aa5646bbe9c87e.jpg")
 //            )
 
         //binding.rvHome.adapter = HomeScreenAdapter(postList)
